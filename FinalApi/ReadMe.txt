@@ -1,0 +1,1 @@
+﻿This is an Api developed with the logic of the activities that are common in a vehicle organization.
